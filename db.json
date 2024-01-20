@@ -1,0 +1,49 @@
+{
+  "productList": [
+    {
+      "productName": "Honor 6c",
+      "category": "Huawei",
+      "condition": "New",
+      "price": "40",
+      "comment": "best",
+      "date": "2023-11-22T19:00:00.000Z",
+      "id": "3"
+    },
+    {
+      "productName": "S6 edge",
+      "category": "Samsung",
+      "condition": "New",
+      "price": "400",
+      "comment": "new",
+      "date": "2023-11-13T19:00:00.000Z",
+      "id": "4"
+    },
+    {
+      "id": "136c",
+      "productName": "S24",
+      "category": "Samsung",
+      "condition": "New",
+      "price": "1300",
+      "comment": "Samsung AI",
+      "date": "2024-01-17T19:00:00.000Z"
+    },
+    {
+      "id": "db93",
+      "productName": "Iphone 11",
+      "category": "iPhone",
+      "condition": "Seconda hand",
+      "price": "200",
+      "comment": "new",
+      "date": "2024-01-01T19:00:00.000Z"
+    },
+    {
+      "productName": "honor ",
+      "category": "Huawei",
+      "condition": "Seconda hand",
+      "price": "230",
+      "comment": "Second hand",
+      "date": "2023-12-04T19:00:00.000Z",
+      "id": "f37d"
+    }
+  ]
+}
