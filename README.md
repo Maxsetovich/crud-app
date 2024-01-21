@@ -7,8 +7,10 @@ You can find the product you need by searching. Moreover, you can customize the 
 ![image](https://github.com/Maxsetovich/crud-app/assets/107585969/6bc1958f-d0c5-44b6-ac16-9c5313fdf652)
 
 Add product window:
+
 ![image](https://github.com/Maxsetovich/crud-app/assets/107585969/988ca669-7773-436d-8b23-bf4d3778a57a)
 
 Update product window:
+
 ![image](https://github.com/Maxsetovich/crud-app/assets/107585969/af084830-fe50-4b4b-b683-794e73629ca3)
 
